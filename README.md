@@ -1,5 +1,8 @@
 # louange
 
-CARD BOOTSTRAP RESPONSIVE EXEMPLE
+RESPONSIVE CARD BOOTSTRAP  EXEMPLE
 
-exemple de galerie sous forme de cartes avec BOOTSTRAP responsive
+Exemple de galerie sous forme de cartes avec BOOTSTRAP responsive
+
+Prévisualisez le resultat de ce code via l'URL ci-dessous: 
+https://chamsish.github.io/louange/
